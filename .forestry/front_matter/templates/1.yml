@@ -34,3 +34,5 @@ fields:
     schema:
       format: markdown
   label: description
+pages:
+- content/post/2022/vrvgrb.md
